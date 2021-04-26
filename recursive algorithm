@@ -1,0 +1,4 @@
+returntype methodname(){  
+//code to be executed  
+methodname();//calling same method  
+}  
